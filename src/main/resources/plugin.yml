@@ -1,0 +1,6 @@
+name: Plannlogin
+version: '${project.version}'
+main: com.funniray.plannlogin.PlannLogin
+author: Funniray
+description: Add nLogin support to Plan
+depend: [Plan, nLogin]
